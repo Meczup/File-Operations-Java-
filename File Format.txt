@@ -1,0 +1,11 @@
+id     :  4 bytes
+name   : 30 bytes
+cgpa   :  4 bytes
+date   : 10 bytes
+gender :  1 byte
+commas :  4 bytes
+CR LF  :  2 bytes
+=====================
+TOTAL  : 55 bytes
+
+1234,John Doe                      ,3.16,22-01-1985,M
